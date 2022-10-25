@@ -12,6 +12,7 @@ Get started with this documentation and start building and fixing bugs in just a
 - [How to compile Pencil2D on macOS](@ref build_macos)
 - [How to compile Pencil2D on Linux](@ref build_linux)
 - [How to compile Pencil2D on Windows](@ref build_windows)
+- [See Contributing Guidelines](@ref code_guidelines)
 
 ## Development
 
